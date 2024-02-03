@@ -1,6 +1,6 @@
 <img src="https://media.licdn.com/dms/image/D5616AQFnN58eBJjNNw/profile-displaybackgroundimage-shrink_350_1400/0/1706394931637?e=1712188800&v=beta&t=8qbJprgr_bocyMRrJRTOVZpEvK4oSUSDmJ1oDzDZzco" width="700">
 <!-- <h1 align="left">Hi, I'm Jacob! 👾</h1> -->
-<h3 align="left">Front-End Web Developer With A Passion For Design</h3>
+<h3 align="left">Software Developer With A Passion For Design</h3>
 
 - 💻 Current project: [thirty](https://github.com/arcadejacob/thirty)
 
